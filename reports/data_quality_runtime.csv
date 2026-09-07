@@ -1,0 +1,11 @@
+dataset,rows,columns,missing_cells,duplicate_rows
+aum_by_fund_house.csv,90,5,0,0
+benchmark_indices.csv,8050,3,0,0
+category_inflows.csv,144,3,0,0
+fund_master.csv,40,15,0,0
+industry_folio_count.csv,21,6,0,0
+investor_transactions.csv,32778,13,0,0
+monthly_sip_inflows.csv,48,6,12,0
+nav_history.csv,46000,3,0,0
+portfolio_holdings.csv,322,8,0,0
+scheme_performance.csv,40,19,0,0
