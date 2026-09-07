@@ -1,0 +1,11 @@
+dataset,rows,columns,missing_cells,columns_with_missing,duplicate_rows,date_min,date_max
+fund_master,40,15,0,0,0,,
+nav_history,46000,3,0,0,0,2022-01-03,2026-05-29
+aum_by_fund_house,90,5,0,0,0,2022-03-31,2025-12-31
+monthly_sip_inflows,48,6,12,1,0,2022-01-01,2025-12-01
+category_inflows,144,3,0,0,0,2024-04-01,2025-03-01
+industry_folio_count,21,6,0,0,0,2022-01-01,2025-12-01
+scheme_performance,40,19,0,0,0,,
+investor_transactions,32778,13,0,0,0,2024-01-01,2025-05-30
+portfolio_holdings,322,8,0,0,0,2025-12-31,2025-12-31
+benchmark_indices,8050,3,0,0,0,2022-01-03,2026-05-29
